@@ -1,0 +1,69 @@
+.default {
+    --bg-color: black;
+    --font-color: lightslategray;
+    --hl-color: orange;
+    --fg-color: #292f34;
+}
+
+.khr1st {
+    --bg-color: #f0f4f8;      /* Light Blue-White background */
+    --font-color: #2e3a45;     /* Dark Grey text for good contrast */
+    --hl-color: #5a9bd8;       /* Blue for caret, wrong characters, hover, etc. */
+    --fg-color: #8faabf;       /* Muted light blue for correctly typed characters */
+}
+
+.classic-bw {
+    --bg-color: #ffffff;     /* Pure white background */
+    --font-color: #000000;   /* Pure black text */
+    --hl-color: #333333;     /* Dark grey for highlights */
+    --fg-color: #4f4f4f;     /* Slightly lighter grey for correct characters */
+}
+
+.slate-grey {
+    --bg-color: #2e2e2e;     /* Slate grey background */
+    --font-color: #f5f5f5;   /* Almost white text */
+    --hl-color: #606060;     /* Mid-tone grey for highlights */
+    --fg-color: #b3b3b3;     /* Lighter grey for correct characters */
+}
+
+.ocean-breeze {
+    --bg-color: #e0f7fa;     /* Light cyan background */
+    --font-color: #004d40;   /* Deep teal text */
+    --hl-color: #00796b;     /* Teal highlight color */
+    --fg-color: #004d40;     /* Deep teal for correct characters */
+}
+
+.sunset-glow {
+    --bg-color: #fff3e0;     /* Light peach background */
+    --font-color: #6d4c41;   /* Cocoa brown text */
+    --hl-color: #ffab91;     /* Peach highlight color */
+    --fg-color: #6d4c41;     /* Cocoa brown for correct characters */
+}
+
+.forest-green {
+    --bg-color: #e8f5e9;     /* Light green background */
+    --font-color: #1b5e20;   /* Dark green text */
+    --hl-color: #66bb6a;     /* Medium green highlight color */
+    --fg-color: #1b5e20;     /* Dark green for correct characters */
+}
+
+.royal-purple {
+    --bg-color: #f3e5f5;     /* Light purple background */
+    --font-color: #4a148c;   /* Deep purple text */
+    --hl-color: #ab47bc;     /* Medium purple highlight color */
+    --fg-color: #4a148c;     /* Deep purple for correct characters */
+}
+
+.coral-reef {
+    --bg-color: #ffe0b2;     /* Light coral background */
+    --font-color: #d84315;   /* Dark coral text */
+    --hl-color: #ff7043;     /* Coral highlight color */
+    --fg-color: #d84315;     /* Dark coral for correct characters */
+}
+
+.seafoam-green {
+    --bg-color: #e0f2f1;     /* Pale seafoam background */
+    --font-color: #004d40;   /* Dark seafoam text */
+    --hl-color: #00796b;     /* Seafoam green highlight color */
+    --fg-color: #004d40;     /* Dark seafoam for correct characters */
+}
